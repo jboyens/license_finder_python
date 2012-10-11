@@ -1,0 +1,6 @@
+nose
+NoseOfYeti
+sure
+yajl
+anyjson
+requests
