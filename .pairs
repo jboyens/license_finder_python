@@ -1,0 +1,10 @@
+pairs:
+  jr: JR Boyens; jboyens
+  jb: JR Boyens; jboyens
+
+email:
+  prefix: pair
+  domain: fooninja.org
+  no_solo_prefix: true
+
+global: false
