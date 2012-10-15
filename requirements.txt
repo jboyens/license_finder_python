@@ -4,3 +4,5 @@ sure
 yajl
 anyjson
 requests
+mock
+pinocchio
